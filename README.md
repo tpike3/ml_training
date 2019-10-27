@@ -1,6 +1,6 @@
 # ML
 
-![Alt Text](https://github.com/dsbc2020/training/blob/master/media/glasses.jpeg "Welcome to the Machine Learning Toolbox!")
+![Alt Text](https://github.com/dsbc2020/ml_training/blob/master/media/glasses.jpeg "Welcome to the Machine Learning Toolbox!")
 
 A repository for a variety of Machine Learning problems.
 
