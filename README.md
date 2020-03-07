@@ -1,6 +1,8 @@
 # ML
 
-![Alt Text](https://github.com/dsbc2020/ml_training/blob/master/media/glasses.jpeg "Welcome to the Machine Learning Toolbox!")
+<p align="center">
+	<img src="https://github.com/dsbc2020/ml_training/blob/master/media/glasses.jpeg">
+</p>
 
 A repository for a variety of Data Science "skill-builders".
 
