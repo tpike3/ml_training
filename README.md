@@ -22,17 +22,22 @@ In this project you will find the following tools.
 Have you heard about Jupyter Notebooks, but dont know how to get started? Here is a quick tutorial.
 
 * First, navigate to the [Anaconda website](https://www.anaconda.com/distribution/) to download the software and install it on your computer (PC or Mac).
-<img src="https://github.com/dsbc2020/ml_training/blob/master/media/anaconda.png" width="400">
+<img src="https://github.com/dsbc2020/ml_training/blob/master/media/anaconda.png" width="500">
+
 * Now, download this [GitHub repo](https://github.com/dsbc2020/ml_training) to your computer.
-<img src="https://github.com/dsbc2020/ml_training/blob/master/media/github.png" width="400">
+<img src="https://github.com/dsbc2020/ml_training/blob/master/media/github.png" width="500">
+
 * Un-zip the files to the following directory (for PC users): "C:\Users\(your user name)\Notebooks\"
-<img src="https://github.com/dsbc2020/ml_training/blob/master/media/directory.png" width="400">
+<img src="https://github.com/dsbc2020/ml_training/blob/master/media/directory.png" width="500">
+
 * Open Anaconda, and click on the launch icon for Jupyter 
-<img src="https://github.com/dsbc2020/ml_training/blob/master/media/anaconda_ui.png" width="400">
+<img src="https://github.com/dsbc2020/ml_training/blob/master/media/anaconda_ui.png" width="500">
+
 * We recommend that you start with the "01_Notebooks.ipynb", but for this demo we click on the "02_Python.ipynb".
-<img src="https://github.com/dsbc2020/ml_training/blob/master/media/jupyter_ui.png" width="400">
+<img src="https://github.com/dsbc2020/ml_training/blob/master/media/jupyter_ui.png" width="500">
+
 * Once the notebook has opened on your browser, you can read through it and run each cell (to learn how to do this, go back to "01_Notebooks.ipynb")
-<img src="https://github.com/dsbc2020/ml_training/blob/master/media/python_notebook.png" width="400">
+<img src="https://github.com/dsbc2020/ml_training/blob/master/media/python_notebook.png" width="500">
 
 
 ## Versioning
