@@ -2,7 +2,7 @@
 
 ![Alt Text](https://github.com/dsbc2020/ml_training/blob/master/media/glasses.jpeg "Welcome to the Machine Learning Toolbox!")
 
-A repository for a variety of Machine Learning problems.
+A repository for a variety of Data Science "skill-builders".
 
 
 -----------------------------------------------------------------------------------
@@ -10,11 +10,13 @@ A repository for a variety of Machine Learning problems.
 ## Project Overview
 The DSBC team has spent years developing tools and training materials for Applied Math and Data Science.
 In this project you will find the following tools.
-* "Notes on ..." these are cheet sheets on various topics of Machine Learning, e.g. algebra, calculus, probability theory, etc.
-* A textbook "Math Refresher fo ML" for those who aspire to understand the math fundamentals of Machine Learning.
-* Lecture slide for the "Math Refresher fo ML".
-* A short book or tuitorial on Neural Nets and Machine Learning.  
-* Software written in both Python and Matlab with many packages included for Data Scientists, e.g. Linear Programming, Monte Carlo, Neural Networks, LSTM, etc.
+* ["Notes on ..."](https://github.com/dsbc2020/ml_training/tree/master/math_notes) these are cheet sheets on various topics of Machine Learning, e.g. algebra, calculus, probability theory, etc.
+* ["10 steps to Data Science"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/10-steps-to-DS) is a series of notebooks to teach you the most common tools used in Data Science.
+* ["10 steps to Machine Learning"}(https://github.com/dsbc2020/ml_training/tree/master/notebooks/10-steps-to-MS) is a series of notebooks to teach you some advanced tools used in Machine Learning. 
+* ["Python in 2 days"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/Python-in-2-days) is a series of notebooks to get you started in Juypter notebooks and Python.
+* ["Machine Learning in 1 day"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/Machine-Learning-in-1-day) is a series of notebooks focused on a basic toolbox for Machine Learning.
+* ["Deep Learning in 1 day"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/Deep-Learning-in-1-day)  is a series of notebooks focused on GANs and Transformers.
+* ["Examples"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/Examples)  is a series of notebooks that most folks will find useful for a variety of reaal-life applications of Data Science.
 
 
 ## Versioning
