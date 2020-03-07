@@ -12,7 +12,7 @@ The DSBC team has spent years developing tools and training materials for Applie
 In this project you will find the following tools.
 * ["Notes on ..."](https://github.com/dsbc2020/ml_training/tree/master/math_notes) these are cheet sheets on various topics of Machine Learning, e.g. algebra, calculus, probability theory, etc.
 * ["10 steps to Data Science"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/10-steps-to-DS) is a series of notebooks to teach you the most common tools used in Data Science.
-* ["10 steps to Machine Learning"}(https://github.com/dsbc2020/ml_training/tree/master/notebooks/10-steps-to-MS) is a series of notebooks to teach you some advanced tools used in Machine Learning. 
+* ["10 steps to Machine Learning"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/10-steps-to-MS) is a series of notebooks to teach you some advanced tools used in Machine Learning. 
 * ["Python in 2 days"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/Python-in-2-days) is a series of notebooks to get you started in Juypter notebooks and Python.
 * ["Machine Learning in 1 day"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/Machine-Learning-in-1-day) is a series of notebooks focused on a basic toolbox for Machine Learning.
 * ["Deep Learning in 1 day"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/Deep-Learning-in-1-day)  is a series of notebooks focused on GANs and Transformers.
