@@ -4,7 +4,7 @@
 	<img src="https://github.com/dsbc2020/ml_training/blob/master/media/glasses.jpeg">
 </p>
 
-A repository for a variety of Data Science "skill-builders".
+A carefully-curated repository of Data Science literature and Jupyter Notebook "skill-builders".
 
 
 -----------------------------------------------------------------------------------
