@@ -20,6 +20,14 @@ In this project you will find the following tools.
 * ["Deep Learning in 1 day"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/Deep-Learning-in-1-day)  is a series of notebooks focused on advanced CNNs, RNNs, GANs and Transformers.
 * ["Examples"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/Examples)  is a series of notebooks that most folks will find useful for a variety of reaal-life applications of Data Science.
 
+
+## Machine Learning Flow-Chart
+Our new [Hi-Res Machine Learning flow-chart](https://github.com/dsbc2020/ml_training/blob/master/flow-chart/ML_flow_chart_HiRes.png) will help you navigate the enormous number of algorithms, and help you select what algorithm you need to complete your task, based on the data that you have and the desired outcome or story you are trying to tell.
+<p align="center">
+	<img width="800" src="https://github.com/dsbc2020/ml_training/blob/master/flow-chart/ML_flow_chart_HiRes.png">
+</p>
+
+
 ## New to Python and Jupyter Notebooks?
 Have you heard about Jupyter Notebooks, but dont know how to get started? Here is a quick tutorial.
 
