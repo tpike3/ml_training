@@ -63,6 +63,20 @@ We use [TortiseSVN](https://tortoisesvn.net/) for versioning. For the versions a
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
+## Acknowledgments
+This repo was built using material from our private industry and acedemic experience, as well as material borrowed from:
+* UCLA ECE 239AS
+* UPenn CIS 229
+* UPenn CIS 520
+* Stanford CS 229
+* Python Data Science Handbook
+* Machine Learning Mastery
+* Towards Data Science
+* Randy Olson's data analysis and machine learning projects.
+* Many thanks to [Andreas Mueller](http://amueller.github.io/) for some of his [examples](https://github.com/amueller/scipy_2015_sklearn_tutorial) in the Machine Learning section. I drew inspiration from several of his excellent examples.
+* Many thanks to Kaggle for the datasets
+* Numerous others that we cannot remember.
+
 
 -----------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------
