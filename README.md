@@ -22,7 +22,7 @@ In this project you will find the following tools.
 
 
 ## Machine Learning Flow-Chart
-Our new [Hi-Res Machine Learning flow-chart](https://github.com/dsbc2020/ml_training/blob/master/flow-chart/ML_flow_chart_HiRes.png) will help you navigate the enormous number of algorithms, and help you select what algorithm you need to complete your task, based on the data that you have and the desired outcome or story you are trying to tell.
+Our new [Hi-Res Machine Learning flow-chart](https://github.com/dsbc2020/ml_training/blob/master/flow-chart/ML_flow_chart_HiRes.png) will help you navigate the enormous number of algorithms.  This will help you select what algorithm you need to complete your task, based on the data that you have and the desired outcome or story you are trying to tell.
 <p align="center">
 	<img width="800" src="https://github.com/dsbc2020/ml_training/blob/master/flow-chart/ML_flow_chart_HiRes.png">
 </p>
