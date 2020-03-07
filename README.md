@@ -22,17 +22,17 @@ In this project you will find the following tools.
 Have you heard about Jupyter Notebooks, but dont know how to get started? Here is a quick tutorial.
 
 * First, navigate to the [Anaconda website](https://www.anaconda.com/distribution/) to download the software and install it on your computer (PC or Mac).
-![Alt Text](https://github.com/dsbc2020/ml_training/blob/master/media/anaconda.png | width=100)
+<img src="https://github.com/dsbc2020/ml_training/blob/master/media/anaconda.png" width="100">
 * Now, download this [GitHub repo](https://github.com/dsbc2020/ml_training) to your computer.
-![Alt Text](https://github.com/dsbc2020/ml_training/blob/master/media/github.png | width=100)
+<img src="https://github.com/dsbc2020/ml_training/blob/master/media/github.png" width="100">
 * Un-zip the files to the following directory (for PC users): "C:\Users\(your user name)\Notebooks\"
-![Alt Text](https://github.com/dsbc2020/ml_training/blob/master/media/directory.png | width=100)
+<img src="https://github.com/dsbc2020/ml_training/blob/master/media/directory.png" width="100">
 * Open Anaconda, and click on the launch icon for Jupyter 
-![Alt Text](https://github.com/dsbc2020/ml_training/blob/master/media/anaconda_ui.png | width=100)
+<img src="https://github.com/dsbc2020/ml_training/blob/master/media/anaconda_ui.png" width="100">
 * We recommend that you start with the "01_Notebooks.ipynb", but for this demo we click on the "02_Python.ipynb".
-![Alt Text](https://github.com/dsbc2020/ml_training/blob/master/media/jupyter_ui.png | width=100)
+<img src="https://github.com/dsbc2020/ml_training/blob/master/media/jupyter_ui.png" width="100">
 * Once the notebook has opened on your browser, you can read through it and run each cell (to learn how to do this, go back to "01_Notebooks.ipynb")
-![Alt Text](https://github.com/dsbc2020/ml_training/blob/master/media/python_notebook.png | width=100)
+<img src="https://github.com/dsbc2020/ml_training/blob/master/media/python_notebook.png" width="100">
 
 
 ## Versioning
