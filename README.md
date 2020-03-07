@@ -18,6 +18,18 @@ In this project you will find the following tools.
 * ["Deep Learning in 1 day"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/Deep-Learning-in-1-day)  is a series of notebooks focused on GANs and Transformers.
 * ["Examples"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/Examples)  is a series of notebooks that most folks will find useful for a variety of reaal-life applications of Data Science.
 
+## New to Python and Jupyter Notebooks?
+Have you heard about Jupyter Notebooks, but dont know how to get started? Here is a quick tutorial.
+
+* Navigate to the [Anaconda website](https://www.anaconda.com/distribution/) to download the software and install it on your computer (PC or Mac).
+![Alt Text](https://github.com/dsbc2020/ml_training/blob/master/media/anaconda.png).
+* Open Anaconda, and click on the launch icon for Jupyter 
+![Alt Text](https://github.com/dsbc2020/ml_training/blob/master/media/anaconda_ui.png)
+* We recommend that you start with the "01_Notebooks.ipynb", but for this demo we click on the "02_Python.ipynb".
+![Alt Text](https://github.com/dsbc2020/ml_training/blob/master/media/jupyter_ui.png)
+* Once the notebook has opened on your browser, you can read through it and run each cell (to learn how to do this, go back to "01_Notebooks.ipynb")
+![Alt Text](https://github.com/dsbc2020/ml_training/blob/master/media/python_notebook.png)
+
 
 ## Versioning
 We use [TortiseSVN](https://tortoisesvn.net/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
