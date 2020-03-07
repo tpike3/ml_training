@@ -17,7 +17,7 @@ In this project you will find the following tools.
 * ["10 steps to Machine Learning"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/10-steps-to-ML) is a series of notebooks to teach you some advanced tools used in Machine Learning. 
 * ["Python in 2 days"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/Python-in-2-days) is a series of notebooks to get you started in Juypter notebooks and Python.
 * ["Machine Learning in 1 day"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/Machine-Learning-in-1-day) is a series of notebooks focused on a basic toolbox for Machine Learning.
-* ["Deep Learning in 1 day"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/Deep-Learning-in-1-day)  is a series of notebooks focused on GANs and Transformers.
+* ["Deep Learning in 1 day"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/Deep-Learning-in-1-day)  is a series of notebooks focused on advanced CNNs, RNNs, GANs and Transformers.
 * ["Examples"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/Examples)  is a series of notebooks that most folks will find useful for a variety of reaal-life applications of Data Science.
 
 ## New to Python and Jupyter Notebooks?
