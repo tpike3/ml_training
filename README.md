@@ -53,7 +53,7 @@ Have you heard about Jupyter Notebooks, but dont know how to get started? Here i
 	<img width="500" src="https://github.com/dsbc2020/ml_training/blob/master/media/python_notebook.png">
 </p>
 
-* You are now ready to tackle all of our notebooks for your self-paced training.
+* You are now ready to tackle all of [our notebooks](https://github.com/dsbc2020/ml_training/tree/master/notebooks) for your self-paced training.  Enjoy!  We wish you great success in your journey to becomming a Data Scientist!
 
 
 ## Versioning
