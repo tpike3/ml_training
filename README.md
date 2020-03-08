@@ -13,13 +13,13 @@ A carefully-curated repository of Data Science literature and Jupyter Notebook "
 The DSBC team has spent years developing tools and training materials for Applied Math and Data Science.
 In this project you will find the following tools.
 * ["Notes on ..."](https://github.com/dsbc2020/ml_training/tree/master/math_notes) these are cheet sheets on various topics of math for Machine Learning, e.g. [algebra](https://github.com/dsbc2020/ml_training/blob/master/math_notes/Algebra.pdf), [calculus](https://github.com/dsbc2020/ml_training/blob/master/math_notes/Calculus.pdf), [probability theory](https://github.com/dsbc2020/ml_training/blob/master/math_notes/Probability_Theory.pdf), etc., as well as Machine Learning topics, e.g. [linear regression](https://github.com/dsbc2020/ml_training/blob/master/math_notes/Linear_Regression.pdf), [hypothesis testing](https://github.com/dsbc2020/ml_training/blob/master/math_notes/Hypothesis_Testing.pdf), etc.
-* ["Cheat-Sheets"](https://github.com/dsbc2020/ml_training/tree/master/cheat_sheets) these are cheet sheets for various Python toolboxes, e.g. [Numpy](https://github.com/dsbc2020/ml_training/blob/master/cheat_sheets/Numpy_Cheat_Sheet.pdf), [MatPlotLib](https://github.com/dsbc2020/ml_training/blob/master/cheat_sheets/MatPlotLib_Cheat_Sheet.pdf), [SciKitLearn](https://github.com/dsbc2020/ml_training/blob/master/cheat_sheets/SciKitLearn_Cheat_Sheet.pdf), [Keras](https://github.com/dsbc2020/ml_training/blob/master/cheat_sheets/Keras_Cheat_Sheet.pdf), etc.
+* ["Cheat-Sheets"](https://github.com/dsbc2020/ml_training/tree/master/cheat_sheets) these are for various Python toolboxes, e.g. [Numpy](https://github.com/dsbc2020/ml_training/blob/master/cheat_sheets/Numpy_Cheat_Sheet.pdf), [MatPlotLib](https://github.com/dsbc2020/ml_training/blob/master/cheat_sheets/MatPlotLib_Cheat_Sheet.pdf), [SciKitLearn](https://github.com/dsbc2020/ml_training/blob/master/cheat_sheets/SciKitLearn_Cheat_Sheet.pdf), [Keras](https://github.com/dsbc2020/ml_training/blob/master/cheat_sheets/Keras_Cheat_Sheet.pdf), etc.
 * ["10 steps to Data Science"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/10-steps-to-DS) is a series of notebooks to teach you the most common tools used in Data Science.
 * ["10 steps to Machine Learning"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/10-steps-to-ML) is a series of notebooks to teach you some advanced tools used in Machine Learning. 
 * ["Python in 2 days"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/Python-in-2-days) is a series of notebooks to get you started in Juypter notebooks and Python.
 * ["Machine Learning in 1 day"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/Machine-Learning-in-1-day) is a series of notebooks focused on a basic toolbox for Machine Learning.
 * ["Deep Learning in 1 day"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/Deep-Learning-in-1-day)  is a series of notebooks focused on advanced CNNs, RNNs, GANs and Transformers.
-* ["Examples"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/Examples)  is a series of notebooks that most folks will find useful for a variety of reaal-life applications of Data Science.
+* ["Examples"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/Examples)  is a series of notebooks that most folks will find useful for a variety of real-life applications of Data Science.
 
 
 ## Machine Learning Flow-Chart
@@ -62,7 +62,7 @@ Have you heard about Jupyter Notebooks, but dont know how to get started? Here i
 	<img width="500" src="https://github.com/dsbc2020/ml_training/blob/master/media/python_notebook.png">
 </p>
 
-* You are now ready to tackle all of [our notebooks](https://github.com/dsbc2020/ml_training/tree/master/notebooks) for your self-paced training.  Enjoy!  We wish you great success in your journey to becomming a Data Scientist!
+* You are now ready to tackle all of [our notebooks](https://github.com/dsbc2020/ml_training/tree/master/notebooks) for your self-paced training.  Enjoy!  We wish you great success in your journey to becoming a Data Scientist!
 
 
 ## Versioning
